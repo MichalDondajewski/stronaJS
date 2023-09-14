@@ -1,0 +1,21 @@
+*{
+    background: url("background.png");
+    margin: 0;
+    padding: 0;
+}
+
+.headMenu{
+    color: white;
+    width: auto;
+    height: 50px;
+    padding: 10px;
+    /*border: 1px solid white;*/
+}
+
+.headMenu .logo{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    pointer-events: none;
+}
